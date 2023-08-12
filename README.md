@@ -1,1 +1,1 @@
-# amazon-clone-repo
+# amazon-clone-design-repo
